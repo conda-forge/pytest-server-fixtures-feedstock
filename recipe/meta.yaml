@@ -1,5 +1,5 @@
 {% set name = "pytest-server-fixtures" %}
-{% set version = "1.7.0" %}
+{% set version = "1.8.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pytest-server-fixtures-{{ version }}.tar.gz
-  sha256: 0fa5b1be6a84180e50ff91a58580e81ad3eb45828878a07942fbe384fcd86d1f
+  sha256: 0b1786087f481c7dfa03678090fc57ec7cff7e61f41f28960c188af219a14280
 
 build:
   number: 0
